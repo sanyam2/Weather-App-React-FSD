@@ -1,0 +1,38 @@
+.cmtList {
+  text-align: left;
+}
+
+.commentMain {
+  border: 1px solid white;
+  padding: 10px;
+  font-family: "Roboto", sans-serif;
+}
+
+.writeCommenttextBox {
+  font-size: 24px;
+  background: #f7f2ff;
+  width: 97%;
+  border: 1px solid #e5e5e5;
+  border-radius: 4px;
+  padding: 10px;
+  margin-right: 20px;
+}
+
+.commentBtn {
+  background: #3251ed;
+  color: white;
+  font-size: 24px;
+  cursor: pointer;
+  float: left;
+}
+
+.commentWritten {
+  background: #f7f2ff;
+  padding: 10px;
+}
+
+.commentBlock {
+  text-align: left;
+  display: block;
+  color: rgb(80, 80, 80);
+}

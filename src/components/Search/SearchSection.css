@@ -1,0 +1,31 @@
+.mainSearchSection {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputLocation {
+  font-size: 20px;
+  width: 600px;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 32px rgba(143, 143, 143, 0.3);
+  border-radius: 4px;
+  border: 1px solid #e5e5e5;
+  color: #8c8c99;
+  box-sizing: border-box;
+  border-radius: 4px;
+  padding: 5px;
+}
+
+.searchButton {
+  background: #3251ed;
+  color: white;
+  font-size: 22px;
+  cursor: pointer;
+  box-shadow: 0px 4px 32px rgba(143, 143, 143, 0.3);
+  border-radius: 4px;
+  margin-left: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
